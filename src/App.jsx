@@ -1,4 +1,5 @@
 import React, { useState, Fragment, useEffect } from 'react'
+import 'bootstrap/dist/css/bootstrap.min.css'
 import './App.css';
 import Header from './components/shared/Header';
 
