@@ -7,6 +7,9 @@ function App() {
   return (
     <div className="App">
       <Header />
+      <br />
+      <br />
+      <br />
       <h1>Cooper portfolio</h1>
     </div>
   );
