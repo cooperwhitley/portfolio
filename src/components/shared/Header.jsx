@@ -13,7 +13,7 @@ export default function Header() {
                         alt="pixel art of cooper" 
                     />
                 </Navbar.Brand>
-                <Navbar.Brand style={{fontWeight: 'bold'}}>cooper whitley</Navbar.Brand>
+                <Navbar.Brand style={{fontWeight: 'bold'}}>cooper whitley - <span style={{fontWeight: '200', fontStyle: 'italic'}}>software engineer</span></Navbar.Brand>
                 <Navbar.Toggle aria-controls='basic-navbar-nav' />
                 <Navbar.Collapse id='basic-navbar-nav'>
                     <Nav className="me-auto">
